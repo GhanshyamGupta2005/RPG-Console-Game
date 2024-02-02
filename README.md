@@ -1,6 +1,6 @@
 # Text-Based RPG Adventure
 
-Welcome to the Text-Based RPG Adventure, an open-source console game written in C++.
+Welcome to the Text-Based RPG Adventure, an open-source console game written in C++ .
 
 ## Features
 
