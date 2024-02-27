@@ -7,6 +7,8 @@ Armor::Armor(int type, int defence, string name, int level, int buyValue, int se
 Armor::~Armor()
 {}
 
+
+
 string Armor::toString()
 {
 	string str = to_string(this->type) + " " + to_string(this->defence);
